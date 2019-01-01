@@ -13,5 +13,6 @@ As a member of the community, you agree to:
 * promote fair and equitable practices.
 * respect others and their opinions.
 * use inclusive language and actions.
+* report any behavior that you observe that violates the above guidelines by notifying board members or organization leadership. 
 
 We reserve the right to ask you to leave the community if you violate any of the above statements and we reserve the right to make any changes or edits to the above as needed.
