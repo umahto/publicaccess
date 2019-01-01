@@ -1,4 +1,4 @@
-Code of Conduct 
+**Code of Conduct**
 
 As a member of the community, you agree not to:
 * stalk or harass other members
