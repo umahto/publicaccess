@@ -1,4 +1,5 @@
 Code of Conduct 
+
 As a member of the community, you agree not to:
 * stalk or harass other members
 * post or publicize inappropriate content (as determined by YOMP)
@@ -12,4 +13,5 @@ As a member of the community, you agree to:
 * promote fair and equitable practices.
 * respect others and their opinions.
 * use inclusive language and actions.
+
 We reserve the right to ask you to leave the community if you violate any of the above statements and we reserve the right to make any changes or edits to the above as needed.
